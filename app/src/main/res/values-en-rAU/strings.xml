@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Nnamdi\'s_Android_Lab1</string>
-    <string name="hello_message">Hello World</string>
-    <string name="button_message">I\'m a button</string>
+    <string name="spin_Switch">Spin flag</string>
+    <string name="Button1">Button1</string>
+    <string name="Button2">Button2</string>
+    <string name="Button3">Button3</string>
+
 </resources>
